@@ -1,2 +1,3 @@
-# homework
-For weekly homeworks
+VBA Assignment:
+In this assignment, stock market was analysied using VBA
+
